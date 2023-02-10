@@ -8,7 +8,7 @@ Puedes preguntarme sobre el football americano
 
 Puedes encontrarme en instagram como @corderito_21
 
-Un dato curioso es que me limpio sentado
+Un dato curioso es que en verdad soy muy serio la mayoria del tiempo
 
 ### Mi horario
 
