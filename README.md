@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola gente de la interweb 👋
+
+Soy un estudiante de la Universidad de ITT estudiando la carrera de Sistemas Compuatcionales, listo para dar lo mejor de mi para siempre
+
+Mis pasatiempos favoritos son el ver series, jugar videojuegos y programar
 
 | Hora   | Lunes                      | Martes                     | Miercoles                  | Jueves                     | Viernes                |
 |--------|----------------------------|----------------------------|----------------------------|----------------------------|------------------------|
