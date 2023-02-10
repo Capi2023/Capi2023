@@ -10,6 +10,8 @@ Puedes encontrarme en instagram como @corderito_21
 
 Un dato curioso es que me limpio sentado
 
+### Mi horario
+
 | Hora   | Lunes                      | Martes                     | Miercoles                  | Jueves                     | Viernes                |
 |--------|----------------------------|----------------------------|----------------------------|----------------------------|------------------------|
 | 12-1pm | Simulacion                 | Simulacion                 | Simulacion                 | Simulacion                 | Simulacion             |
