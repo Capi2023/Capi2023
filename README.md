@@ -12,15 +12,14 @@ Un dato curioso es que en verdad soy muy serio la mayoria del tiempo
 
 ### Mi horario
 
-| Hora   | Lunes                      | Martes                     | Miercoles                  | Jueves                     | Viernes                |
-|--------|----------------------------|----------------------------|----------------------------|----------------------------|------------------------|
-| 12-1pm | Simulacion                 | Simulacion                 | Simulacion                 | Simulacion                 | Simulacion             |
-| 1-2pm  | Taller Base de datos       | Taller Base de datos       | Taller Base de datos       | Taller Base de datos       |                        |
-| 2-3pm  | Taller Sistemas Operativos | Taller Sistemas Operativos | Taller Sistemas Operativos | Taller Sistemas Operativos |                        |
-| 3-4pm  | Graficacion                | Graficacion                | Graficacion                | Graficacion                |                        |
-| 4-5pm  | Lenguajes de Interfaz      | Lenguajes de Interfaz      | Lenguajes de Interfaz      | Lenguajes de Interfaz      |                        |
-| 5-6pm  | Desarrollo Sustentable     | Desarrollo Sustentable     | Desarrollo Sustentable     | Desarrollo Sustentable     | Desarrollo Sustentable |
-| 7-8pm  | Logica y funcional         | Logica y funcional         | Logica y funcional         | Logica y funcional         |                        |
+| Hora   | Lunes                      | Martes                     | Miercoles                  | Jueves                     | Viernes                    |
+|--------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
+| 1-2pm  | Administracion de BD       | Administracion de BD       | Administracion de BD       | Administracion de BD       | Administracion de BD       |
+| 2-3pm  | Sistemas Programables      | Sistemas Programables      | Sistemas Programables      | Sistemas Programables      |                            |
+| 3-4pm  | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    |
+| 4-5pm  | Redes de Computadoras      | Redes de Computadoras      | Redes de Computadoras      | Redes de Computadoras      | Redes de Computadoras      |
+| 5-6pm  | Ingieneria de Software     | Ingieneria de Software     | Ingieneria de Software     | Ingieneria de Software     | Ingieneria de Software     |
+| 7-8pm  | Programacion WEB           | Programacion WEB           | Programacion WEB           | Programacion WEB           | Programacion WEB           |
 
 ```ruby
 require 'redcarpet'
