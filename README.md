@@ -18,7 +18,6 @@ Un dato curioso es que en verdad soy muy serio la mayoria del tiempo
 | 2-3pm  | Sistemas Programables      | Sistemas Programables      | Sistemas Programables      | Sistemas Programables      |                            |
 | 3-4pm  | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    |
 | 4-5pm  | Redes de Computadoras      | Redes de Computadoras      | Redes de Computadoras      | Redes de Computadoras      | Redes de Computadoras      |
-| 5-6pm  |                            |                            |                            |                            |                            |
 | 7-8pm  | Programacion WEB           | Programacion WEB           | Programacion WEB           | Programacion WEB           | Programacion WEB           |
 
 ```ruby
