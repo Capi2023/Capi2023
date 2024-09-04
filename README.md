@@ -26,6 +26,3 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
-
-
-**Capi2023/Capi2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
