@@ -12,13 +12,13 @@ Un dato curioso es que en verdad soy muy serio la mayoria del tiempo
 
 ### Mi horario
 
-| Hora   | Lunes                      | Martes                     | Miercoles                  | Jueves                     | Viernes                    |
-|--------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
-| 1-2pm  | Administracion de BD       | Administracion de BD       | Administracion de BD       | Administracion de BD       | Administracion de BD       |
-| 2-3pm  | Sistemas Programables      | Sistemas Programables      | Sistemas Programables      | Sistemas Programables      |                            |
-| 3-4pm  | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    | Lenguajes y Automatas I    |
-| 4-5pm  | Redes de Computadoras      | Redes de Computadoras      | Redes de Computadoras      | Redes de Computadoras      | Redes de Computadoras      |
-| 7-8pm  | Programacion WEB           | Programacion WEB           | Programacion WEB           | Programacion WEB           | Programacion WEB           |
+| Hora   | Lunes                                     | Martes                                    | Miercoles                                 | Jueves                                    | Viernes                                   |
+|--------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
+| 2-3pm  | Taller de investigación 1                 | Taller de investigación 1                 | Taller de investigación 1                 | Taller de investigación 1                 |                                           |
+| 3-4pm  | Temas avanzados de desarrollo de software | Temas avanzados de desarrollo de software | Temas avanzados de desarrollo de software | Temas avanzados de desarrollo de software | Temas avanzados de desarrollo de software |
+| 4-5pm  | Inteligencia Artificial                   | Inteligencia Artificial                   | Inteligencia Artificial                   | Inteligencia Artificial                   |                                           |
+| 5-6pm  | Patrones de diseno de software            | Patrones de diseno de software            | Patrones de diseno de software            | Patrones de diseno de software            | Patrones de diseno de software            |
+| 6-7pm  | Programacion WEB           | Programacion WEB           | Programacion WEB           | Programacion WEB           | Programacion WEB           |
 
 ```ruby
 require 'redcarpet'
