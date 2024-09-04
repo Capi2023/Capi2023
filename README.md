@@ -6,7 +6,7 @@ Mis pasatiempos favoritos son el ver series, jugar videojuegos y programar
 
 Puedes preguntarme sobre el football americano
 
-Puedes encontrarme en instagram como @corderito_21
+Puedes encontrarme en instagram como @corderito_22
 
 Un dato curioso es que en verdad soy muy serio la mayoria del tiempo
 
