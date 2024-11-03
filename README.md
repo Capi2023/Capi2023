@@ -2,7 +2,7 @@
 
 Soy un estudiante de la Universidad de ITT estudiando la carrera de Sistemas Compuatcionales, listo para dar lo mejor de mi para siempre
 
-Mis pasatiempos favoritos son el ver series, jugar videojuegos y programar
+Mis pasatiempos favoritos son el café, los videojuegos y programar
 
 Puedes preguntarme sobre el football americano
 
@@ -20,9 +20,3 @@ Un dato curioso es que en verdad soy muy serio la mayoria del tiempo
 | 5-6pm  | Patrones de diseño de software            | Patrones de diseño de software            | Patrones de diseño de software            | Patrones de diseño de software            | Patrones de diseño de software            |
 | 6-7pm  | Lenguajes y automatas II                  | Lenguajes y automatas II                  | Lenguajes y automatas II                  | Lenguajes y automatas II                  | Lenguajes y automatas II                  |
 | 7-8pm  | Gestion de proyectos de software          | Gestion de proyectos de software          | Gestion de proyectos de software          | Gestion de proyectos de software          | Gestion de proyectos de software          |
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
